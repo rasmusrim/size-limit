@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "estimo": "^2.3.3",
-    "react": "^17.0.2"
+    "react": "^18.0.0"
   },
   "devDependencies": {
     "nanoid": "^3.2.0",
